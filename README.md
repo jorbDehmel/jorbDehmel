@@ -1,5 +1,11 @@
 - I’m @jorbDehmel, Jorb Dehmel.
-- Fluent in (in order of experience): Python, RegEx, C++, SQL, Java, JavaScript
+- Full stack Python developer
+- Student of CompSci at Colorado Mesa University
+
+- Very experienced in Python and C++
+- Also fluent in Java and Javascript
+- Very experienced in RegEx
+
 - Interested in machine learning, web scraping and offline computing.
 - jdehmel@outlook.com
 
