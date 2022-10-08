@@ -1,4 +1,4 @@
-- I’m @jorbDehmel, Jorb Dehmel.
+- I’m @jorbDehmel, Jordan "Jorb" Dehmel.
 - Full stack Python developer
 - Student of CompSci at Colorado Mesa University
 
