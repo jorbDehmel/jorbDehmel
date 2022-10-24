@@ -1,5 +1,5 @@
 - I’m @jorbDehmel, Jordan "Jorb" Dehmel.
-- Full stack Python developer
+- Full stack Python and C++ developer (GUIs and backend)
 - Student of CompSci at Colorado Mesa University
 
 - Very experienced in Python and C++
