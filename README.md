@@ -3,8 +3,13 @@
 - Full stack Python and C++ developer (GUIs and backend)
 - Student of CompSci at Colorado Mesa University
 
-- Very experienced in Python and C++
+- Expert in Python and C++
+- Experience in Java and Javascript
 - Very experienced in RegEx
+
+- Experienced creating 2D and 3D game engines
+- Experienced in maching learning
+- Experienced in web scraping
 
 - Interested in machine learning, web scraping and offline computing.
 - jdehmel@outlook.com
