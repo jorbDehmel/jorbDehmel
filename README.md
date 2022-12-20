@@ -8,10 +8,10 @@
 - Very experienced in RegEx
 
 - Experienced creating 2D and 3D game engines
-- Experienced in maching learning
 - Experienced in web scraping
+- Experienced in machine learning
 
-- Interested in machine learning, web scraping and offline computing.
+- Interested in web scraping and offline computing.
 - jdehmel@outlook.com
 
 <!---
