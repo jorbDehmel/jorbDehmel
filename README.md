@@ -1,20 +1,13 @@
-- I’m @jorbDehmel, Jordan "Jorb" Dehmel.
-- Linux (Debian)
+- @jorbDehmel, Jordan "Jorb" Dehmel.
+- Linux (Debian/Arch)
 - Full stack Python and C++ developer (GUIs and backend)
-- Student of CompSci at Colorado Mesa University
+- Student of CompSci + pure math at Colorado Mesa University
 
 - Expert in Python and C++
-- Experience in Java and Javascript
-- Very experienced in RegEx
+- Experience in Python, C++, Java, Javascript, Rust, HTML/CSS, rmd, md, LaTeX, SQL, RegEx
 
 - Experienced creating 2D and 3D game engines
 - Experienced in web scraping
 - Experienced in machine learning
 
-- Interested in web scraping and offline computing.
 - jdehmel@outlook.com
-
-<!---
-jorbDehmel/jorbDehmel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
