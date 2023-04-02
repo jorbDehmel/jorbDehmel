@@ -10,4 +10,6 @@
 - Experienced in web scraping
 - Experienced in machine learning
 
+- Mainly interested in efficient offline computing and repurposing e-waste
+
 - jdehmel@outlook.com
