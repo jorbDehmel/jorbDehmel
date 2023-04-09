@@ -13,3 +13,4 @@
 - Mainly interested in efficient offline computing and repurposing e-waste
 
 - jdehmel@outlook.com
+[Buy me a coffee]{https://www.buymeacoffee.com/jorb}
