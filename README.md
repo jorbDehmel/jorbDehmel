@@ -1,3 +1,5 @@
+[Buy me a coffee](https://www.buymeacoffee.com/jorb)
+
 - @jorbDehmel, Jordan "Jorb" Dehmel.
 - Linux (Debian/Arch)
 - Full stack Python and C++ developer (GUIs and backend)
@@ -13,5 +15,3 @@
 - Mainly interested in efficient offline computing and repurposing e-waste
 
 - jdehmel@outlook.com
-
-[Buy me a coffee](https://www.buymeacoffee.com/jorb)
