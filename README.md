@@ -1,16 +1,10 @@
 [Buy me a coffee](https://www.buymeacoffee.com/jorb)
 
 - @jorbDehmel, Jordan "Jorb" Dehmel.
-- Linux (Debian/Arch)
-- Full stack Python and C++ developer (GUIs and backend)
-- Student of CompSci + pure math at Colorado Mesa University
-
-- Experience in Python, C++, Java, Javascript, Rust, HTML/CSS, rmd, md, LaTeX, SQL, RegEx
-
-- Experienced creating 2D and 3D game engines
-- Experienced in web scraping
-- Experienced in machine learning
-
-- Mainly interested in efficient offline computing and repurposing e-waste
-
 - jdehmel@outlook.com
+- Linux (Debian/Arch)
+- Student of CompSci + pure math at Colorado Mesa University
+- Currently doing undergraduate research in active matter physics
+- Experience in Python, C++, Java, Javascript, Rust, HTML/CSS, rmd, md, LaTeX, SQL, RegEx
+- Experience creating 2D and 3D rendering engines, machine learning libraries, programming language translators
+- Currently researching formal language theory, theoretical computer science
